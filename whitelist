@@ -17,5 +17,8 @@ hosts-file.net
 # thumbnail youtube
 i.ytimg.com
 
+# Salva os vídeos vistos no histórico de vídeos assistidos
+s.youtube.com
+
 # Diversos
 www.tuasaude.com
