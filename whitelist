@@ -11,6 +11,9 @@ edge-chat.facebook.com
 # Para carregar comentários e poder bloquear pessoas
 graph.facebook.com
 
+# Para carregar fotos de postagens quando clica nelas
+static.xx.fbcdn.net
+
 # Para atualização de listas
 hosts-file.net
 
