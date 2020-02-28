@@ -14,6 +14,9 @@ graph.facebook.com
 # Para carregar fotos de postagens quando clica nelas
 static.xx.fbcdn.net
 
+# Para links externos funcionarem
+l.facebook.com
+
 # Para atualização de listas
 hosts-file.net
 
