@@ -14,6 +14,9 @@ graph.facebook.com
 # Para carregar fotos de postagens quando clica nelas
 static.xx.fbcdn.net
 
+# Para carregar fotos dos posts
+b-graph.facebook.com
+
 # Para links externos funcionarem
 l.facebook.com
 
@@ -46,6 +49,18 @@ ae01.alicdn.com
 vjauj58549.i.lithium.com
 lt.dell.com
 
+# Encurtadores de links
+t.co
+youtu.be
+bit.ly
+
+# Atualizar aplicativos no google play
+android.clients.google.com
+play.googleapis.com
+
+# Sync da conta do firefox
+api.leanplum.com
+
 # Diversos
 www.tuasaude.com
 2.android.pool.ntp.org
@@ -57,3 +72,4 @@ clients5.google.com
 clients6.google.com
 ubuntu.com
 www.facebook.com
+twitter.com
