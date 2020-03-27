@@ -57,6 +57,8 @@ bit.ly
 # Atualizar aplicativos no google play
 android.clients.google.com
 play.googleapis.com
+api.lbesecapi.com
+events.lbesecapi.com
 
 # Sync da conta do firefox
 api.leanplum.com
