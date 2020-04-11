@@ -54,7 +54,12 @@ https://v.firebog.net/hosts/Prigent-Ads.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-https://raw.githubusercontent.com/Kees1958/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt
+
+# Site do Kees mudou. Encontrei um fork no AdritAdorKhan
+# Cópia no meu dropbox
+# https://raw.githubusercontent.com/Kees1958/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt
+https://raw.githubusercontent.com/AdroitAdorKhan/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt
+
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
@@ -91,13 +96,19 @@ https://blocklist.site/app/dl/youtube
 
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
 
+# Covid19
+# https://www.cyberthreatcoalition.org/
+https://blocklist.cyberthreatcoalition.org/vetted/ip.txt
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://blocklist.cyberthreatcoalition.org/vetted/url.txt
+
 #### Youtube
 #https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
 # https://discourse.pi-hole.net/t/new-blocklist-over-5-million/23857/20
-# Copia do arquivo no meu dropbox site fora a principio desde 04/2020
+# Copia do arquivo no meu dropbox site fora a principio desde 04/2020. Copiado local 
 #http://stats.eats.wang/blocklist.txt
-https://ucdb098142024aa0269f7b854379.dl.dropboxusercontent.com/cd/0/get/A1f_OpGi5xv65JJgQtU3UcJlnxqIlW84d00oDQfu_t03YaeQasV2-DfyAlxPsItucZEQfEptO-yiXPYGdzXtiN74NS7ZJU5pB8xhw0SqYBa-FLI1P1izcjyoxr_Wy_f5cYw/file#
+http://192.168.4.251/listas/blocklist.txt
 
 # Testar
 # https://pastebin.com/Z2eQSCG3?fbclid=IwAR2h30S5YiE3NAhZJHLHzE9-52ziy9WLz9fErW81gu9NG2NSN-xOTIgcNvU
