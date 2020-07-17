@@ -6,7 +6,7 @@
 # entries:       1
 # format:        hosts (hosts -- in hosts file format)
 # this URL:      https://raw.githubusercontent.com/sergioabrantesjunior/pihole/master/myblocklist
-
+# start date:    Fri, 16 Jul 2020 15:33 
 
 
 127.0.0.1 server.gblcdn.com
