@@ -1,0 +1,12 @@
+# List of ADS that I found and cataloged
+# For more information about this list, see: https://github.com/sergioabrantesjunior/pihole
+#
+# ----
+# last updated:  Fri, 16 Jul 2020 15:33 
+# entries:       3492
+# format:        hosts (hosts -- in hosts file format)
+# this URL:      sss
+
+
+
+127.0.0.1 server.gblcdn.com
